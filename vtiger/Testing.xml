@@ -1,0 +1,16 @@
+<suite name = "vtiger automation">
+
+<test name = "vtiger testng">
+
+<classes>
+<class  name = "org.testScript.LeadsAutomationTestScripts">
+</class>
+
+<class name = "org.testScript.logintest">
+</class>
+
+
+</classes>
+
+</test>
+</suite>
