@@ -12,6 +12,7 @@ public class BasePge extends basePageOR {
 	public BasePge(Webutil1 wuobject) {
 		super(wuobject);
 		wu=wuobject;
+		int a= 1000;
 		
 	}
 	public void clickSearchDropDown() {
